@@ -80,6 +80,12 @@ It comes with an **animated UI** that changes according to temperature and weath
 
    ---
 
+## 📲 Download APK
+
+If you want to try the app directly without building it:
+
+- [**Download the APK here**](#) *(https://drive.google.com/file/d/1wkcT7jFKYjs6ueOULisgJ9UgE6U8lRVu/view?usp=sharing)*
+
 ## 📬 Contact
 
 - **Kavya Mittal**  
