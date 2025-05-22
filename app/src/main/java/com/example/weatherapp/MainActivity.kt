@@ -107,7 +107,7 @@ class MainActivity : AppCompatActivity() {
     private fun changeImageAccordingToWeatherCondition(conditions: String) {
         when(conditions){
             "Clear Sky","Sunny","Clear"->{
-                binding.root.setBackgroundResource(R.drawable.sunny)
+                binding.root.setBackgroundResource(R.drawable.sunny_background)
                 binding.lottieAnimationView.setAnimation(R.raw.sun)
             }
             "Partly Clouds","Clouds","Overcast","Mist","Foggy"->{
@@ -123,7 +123,7 @@ class MainActivity : AppCompatActivity() {
                 binding.lottieAnimationView.setAnimation(R.raw.snow)
             }
             else->{
-                binding.root.setBackgroundResource(R.drawable.sunny)
+                binding.root.setBackgroundResource(R.drawable.sunny_background)
                 binding.lottieAnimationView.setAnimation(R.raw.sun)
             }
 
